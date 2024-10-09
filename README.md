@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Purnendu
-![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/458399881_497493283001284_7972697916127199440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE0Avv7HLa5uP_p7IUl4HxRwjQs5Cn_QGHCNCzkKf9AYTEHr3mBvII_FQr7cjvEQRww4k-8oGhu4MOGoA2SOIuz&_nc_ohc=48Xpca3OrQcQ7kNvgFaH2PD&_nc_ht=scontent.fdac138-1.fna&_nc_gid=AcEXVCQ1j8Afo_uHSNQ90zT&oh=00_AYDIiA1jE44JtTW_pw6zIe8oM5jXs1OpQI5pYaJhLGUxyw&oe=670C290B)
+<...![](https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/458399881_497493283001284_7972697916127199440_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeE0Avv7HLa5uP_p7IUl4HxRwjQs5Cn_QGHCNCzkKf9AYTEHr3mBvII_FQr7cjvEQRww4k-8oGhu4MOGoA2SOIuz&_nc_ohc=48Xpca3OrQcQ7kNvgFaH2PD&_nc_ht=scontent.fdac138-1.fna&_nc_gid=AcEXVCQ1j8Afo_uHSNQ90zT&oh=00_AYDIiA1jE44JtTW_pw6zIe8oM5jXs1OpQI5pYaJhLGUxyw&oe=670C290B)...>
 
 👋 Hi, I'm Purnendu Sarkar, a passionate Computer Science and Engineering student with a keen interest in front-end web development. I enjoy creating clean, functional, and visually appealing websites. I'm always eager to learn new technologies and improve my skills.
 
