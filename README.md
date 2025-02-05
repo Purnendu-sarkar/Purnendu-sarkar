@@ -12,9 +12,9 @@
 
 <h3 align="center">🌱 Currently, I am:</h3>
 <ul align="center">
-  <li>Exploring <b>Next.js</b> and <b>TypeScript</b>.</li>
-  <li>Working on a <b>Tourism Website</b> project.</li>
-  <li>Contributing to <b>open-source projects</b>.</li>
+  <li>Exploring <b>Next.js</b> and <b>TypeScript</b></li>
+  <li>Working on a <b>Tourism Website</b> project</li>
+  <li>Contributing to <b>open-source projects</b></li>
 </ul>
 
 <h2 align="center">🛠️ Tech Stack</h2>
