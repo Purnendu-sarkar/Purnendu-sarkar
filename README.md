@@ -1,48 +1,79 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# Hi there, I'm Purnendu Sarkar! 👋  
 
-###
+![Banner](https://your-banner-image-url.com)  
 
-<div align="center">
-  <img height="200" src="https://drive.google.com/file/d/1EKq3kjZLs8jfN51jjePM6IfB-3RY09Hq/view?usp=drive_link"  />
-</div>
+## 🚀 About Me  
 
-###
+I am a passionate **Full Stack Developer** with experience in building modern, scalable web applications. I love solving real-world problems through code and continuously exploring new technologies.  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### 🌱 Currently, I am:  
+- Exploring **Next.js** and **TypeScript**.  
+- Working on a **Tourism Website** project.  
+- Contributing to **open-source projects**.  
 
-###
+## 🛠️ Tech Stack  
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+### 🌐 Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js&logoColor=white&style=for-the-badge)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)  
 
-###
+### 💻 Backend  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)  
+![Express](https://img.shields.io/badge/-Express.js-000?logo=express&logoColor=white&style=for-the-badge)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)  
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+### 🛠️ Tools & DevOps  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)  
 
-###
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/your-profile)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Purnendu-sarkar)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/your-profile)  
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Purnendu-sarkar&theme=dark" alt="Layout with last medium posts"  />
-</div>
+## 📊 GitHub Stats  
+![Purnendu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Purnendu-sarkar&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Purnendu-sarkar&layout=compact&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Purnendu-sarkar&theme=tokyonight)  
 
-###
+## 📌 Pinned Repositories  
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=Purnendu-sarkar&repo=repo-name-1&theme=tokyonight)](https://github.com/Purnendu-sarkar/repo-name-1)  
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=Purnendu-sarkar&repo=repo-name-2&theme=tokyonight)](https://github.com/Purnendu-sarkar/repo-name-2)  
+[![Repo 3](https://github-readme-stats.vercel.app/api/pin/?username=Purnendu-sarkar&repo=repo-name-3&theme=tokyonight)](https://github.com/Purnendu-sarkar/repo-name-3)  
+
+---
+
+# 📂 Pinned Repository README Template  
+
+```markdown
+# Project Title  
+
+![Project Screenshot](https://your-project-image-url.com)  
+
+## 🌟 Overview  
+A brief description of the project, its purpose, and features.  
+
+## 🔗 Live Demo  
+[Live Project](https://your-live-demo-url.com)  
+
+## 🛠️ Built With  
+- React  
+- Node.js  
+- Express  
+- MongoDB  
+
+## 🚀 Features  
+✅ Feature 1  
+✅ Feature 2  
+✅ Feature 3  
+
+## 📦 Dependencies  
+- **Express** – `npm install express`  
+- **Mongoose** – `npm install mongoose`  
+
+## 🔧 Installation  
+1. Clone the repo:  
+   ```sh
+   git clone https://github.com/Purnendu-sarkar/repo-name.git
