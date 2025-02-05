@@ -45,19 +45,19 @@
 
 <h2>📫 Connect with Me</h2>
 <p>
-  <a href="https://www.facebook.com/your-profile">
+  <a href="https://www.facebook.com/purnendusarkar4200">
     <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="https://www.linkedin.com/in/purnendu-sarkar-203b24332/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://github.com/Purnendu-sarkar">
     <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://www.instagram.com/your-profile">
+  <a href="https://www.instagram.com/purnendusarkar420">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://twitter.com/your-profile">
+  <a href="https://twitter.com/purnendusarkar420">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
 </p>
