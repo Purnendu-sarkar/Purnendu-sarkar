@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Purnendu Sarkar! 👋</h1>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/Mxc5zq0z/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png" alt="Banner" style="max-width: 100%; height: auto;">
+  <img src="https://raw.githubusercontent.com/Purnendu-sarkar/README.md/main/Black and White Creative Profile Information LinkedIn Article Cover Image.png" alt="Banner" style="max-width: 100%; height: auto;">
 </p>
 
 <h2>🚀 About Me</h2>
