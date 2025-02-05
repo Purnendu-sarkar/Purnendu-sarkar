@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.ibb.co.com/Mxc5zq0z/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png"  />
+  <img height="200" src="https://drive.google.com/file/d/1EKq3kjZLs8jfN51jjePM6IfB-3RY09Hq/view?usp=drive_link"  />
 </div>
 
 ###
