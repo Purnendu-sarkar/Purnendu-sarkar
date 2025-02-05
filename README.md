@@ -4,17 +4,17 @@
   <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png" alt="Banner" style="max-width: 100%; height: auto;">
 </p>
 
-<h2 align="center">🚀 About Me</h2>
-<p align="center">
+<h2>🚀 About Me</h2>
+<p>
   I am a passionate <b>Full Stack Developer</b> with experience in building modern, scalable web applications. 
   I love solving real-world problems through code and continuously exploring new technologies.
 </p>
 
-<h3 align="center">🌱 Currently, I am:</h3>
-<ul align="center">
-  <li>Exploring <b>Next.js</b> and <b>TypeScript</b></li>
-  <li>Working on a <b>Tourism Website</b> project</li>
-  <li>Contributing to <b>open-source projects</b></li>
+<h3>🌱 Currently, I am:</h3>
+<ul>
+  <li>Exploring <b>Next.js</b> and <b>TypeScript</b>.</li>
+  <li>Working on a <b>Tourism Website</b> project.</li>
+  <li>Contributing to <b>open-source projects</b>.</li>
 </ul>
 
 <h2 align="center">🛠️ Tech Stack</h2>
