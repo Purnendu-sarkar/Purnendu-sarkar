@@ -1,6 +1,6 @@
 # Hi there, I'm Purnendu Sarkar! 👋  
 
-![Banner]([https://your-banner-image-url.com](https://i.ibb.co.com/Mxc5zq0z/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png))  
+![Banner](https://i.ibb.co.com/Mxc5zq0z/Black-and-White-Creative-Profile-Information-Linked-In-Article-Cover-Image.png)
 
 ## 🚀 About Me  
 
