@@ -68,5 +68,6 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Purnendu-sarkar&show_icons=true&theme=tokyonight" />
-  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Purnendu-sarkar&theme=vue&hide_border=true)](https://git.io/streak-stats)
+  <img src="https://nirzak-streak-stats.vercel.app?user=Purnendu-sarkar&theme=vue&hide_border=true" />
+<!--   [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=Purnendu-sarkar&theme=vue&hide_border=true)](https://git.io/streak-stats) -->
 </p>
