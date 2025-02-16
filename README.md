@@ -73,3 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Purnendu-sarkar&show_icons=true&theme=tokyonight" />
   <img src="https://nirzak-streak-stats.vercel.app?user=Purnendu-sarkar&theme=synthwave&hide_border=true" />
 </p>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purnendu-sarkar&bg_color=ffffff&color=000000&line=564c9e&point=53b446&area=true&hide_border=true" alt="GitHub Activity Graph">
+</a>
+
