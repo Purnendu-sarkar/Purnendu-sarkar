@@ -6,26 +6,21 @@
 
 <h2>🚀 About Me</h2>
 
-<table>
-  <tr>
-    <td>
-      <p>
-        I am a passionate <b>Full Stack Developer</b> with experience in building modern, scalable web applications. 
-        I love solving real-world problems through code and continuously exploring new technologies.
-      </p>
+<p>
+  I am a passionate <b>Full Stack Developer</b> with experience in building modern, scalable web applications. 
+  I love solving real-world problems through code and continuously exploring new technologies.
+</p>
 
-      <h3>🌱 Currently, I am:</h3>
-      <ul>
-        <li>Exploring <b>Next.js</b> and <b>TypeScript</b>.</li>
-        <li>Working on a <b>Tourism Website</b> project.</li>
-        <li>Contributing to <b>open-source projects</b>.</li>
-      </ul>
-    </td>
-    <td>
-      <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/gif.gif" alt="GIF Animation" width="300">
-    </td>
-  </tr>
-</table>
+<h3>🌱 Currently, I am:</h3>
+<ul>
+  <li>Exploring <b>Next.js</b> and <b>TypeScript</b>.</li>
+  <li>Working on a <b>Tourism Website</b> project.</li>
+  <li>Contributing to <b>open-source projects</b>.</li>
+</ul>
+
+<p align="center">
+  <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/gif.gif" alt="Banner" style="max-width: 100%; height: auto;">
+</p>
 
 
 <h2 align="center">🛠️ Tech Stack</h2>
