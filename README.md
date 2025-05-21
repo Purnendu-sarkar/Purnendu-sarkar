@@ -6,7 +6,7 @@
   <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png" alt="Banner" style="max-width: 100%; height: auto;">
 </p>
 
-<h2>🚀 About Me</h2>
+<h2>🚀💗 About Me </h2>
 
 <p>
   I am a passionate <b>Full Stack Developer</b> with experience in building modern, scalable web applications. 
