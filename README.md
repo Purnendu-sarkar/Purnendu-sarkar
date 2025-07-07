@@ -15,7 +15,7 @@
 
 <h3>🌱 Currently, I am:</h3>
 <ul>
-  <li>Exploring <b>Next.js</b>, <b>Redux</b>, <b>Redux Tool Kit </b> and <b>Mongoose</b>.</li>
+  <li>Exploring <b>react</b>, <b>Next.js</b>, <b>Redux</b>, <b>Redux Tool Kit </b> and <b>Mongoose</b>.</li>
   <li>Working on multiple projects, including a <b>Task Management Application</b> and a <b>Car Rental Platform</b> project.</li>
   <li>Contributing to <b>open-source projects</b>.</li>
 </ul>
