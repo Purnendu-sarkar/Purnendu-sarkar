@@ -89,3 +89,11 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Purnendu-sarkar&bg_color=ffffff&color=000000&line=564c9e&point=53b446&area=true&hide_border=true" alt="GitHub Activity Graph">
 </a>
 
+
+<h2 align="center">🔝 Top Contributed Repo</h2>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Purnendu-sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+<hr/>
+
