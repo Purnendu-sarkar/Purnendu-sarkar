@@ -1,6 +1,9 @@
 <h1 align="center">
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=000000CF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Purnendu+Sarkar!+%F0%9F%91%8B;I+am+a+passionate+Full+Stack+Developer%F0%9F%92%BB" alt="Typing SVG" /></a>
+  <a align="center" href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&random=true&width=435&lines=Hi+there%2C+I'm+Purnendu+Sarkar!+%F0%9F%91%8B;I+am+a+passionate+Full+Stack+Developer%F0%9F%92%BB" alt="Typing SVG" />
+  </a>
 </h1>
+
 
 <p align="center">
   <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/Black%20and%20White%20Creative%20Profile%20Information%20LinkedIn%20Article%20Cover%20Image.png" alt="Banner" style="max-width: 100%; height: auto;">
