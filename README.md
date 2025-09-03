@@ -19,7 +19,7 @@
 <h3>🌱 Currently, I am:</h3>
 <ul>
   <li>Exploring <b>PostgreSQL</b>, <b>Next.js</b>, <b>Redux Tool Kit </b>, <b>TypeScript</b> and <b>Mongoose</b>.</li>
-  <li>Working on multiple projects, including a <b>Task Management Application</b> and a <b>Car Rental Platform</b> project.</li>
+  <li>Working on multiple projects, including a <b>University Attendance Sheet Application</b> and a <b>Car Rental Platform</b> project.</li>
   <li>Contributing to <b>open-source projects</b>.</li>
 </ul>
 
