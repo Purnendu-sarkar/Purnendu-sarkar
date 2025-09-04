@@ -23,10 +23,6 @@
   <li>Contributing to <b>open-source projects</b>.</li>
 </ul>
 
-<p align="center">
-  <img src="https://github.com/Purnendu-sarkar/Purnendu-sarkar/blob/main/gif.gif" alt="Banner" style="max-width: 100%; height: auto;">
-</p>
-
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
