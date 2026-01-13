@@ -18,7 +18,7 @@
 
 <h3>🌱 Currently, I am:</h3>
 <ul>
-  <li>Exploring <b>PostgreSQL</b>, <b>Next.js</b>, <b>TypeScript</b> and <b>Mongoose</b>.</li>
+  <li>Exploring <b>PostgreSQL</b>,<b>Prisma</b>, <b>Next.js</b>, <b>TypeScript</b> and <b>Mongoose</b>.</li>
   <li>Working on multiple projects, including a <b>University Attendance Sheet Application</b> and a <b>TravelSync</b> project.</li>
   <li>Contributing to <b>open-source projects</b>.</li>
 </ul>
