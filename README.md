@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Purnendu+Sarkar+!%F0%9F%91%8B;I'm+passionate+Full+Stack+MERN+Developer;Building+Scalable+%26+User-Friendly+Web+Apps;Passionate+About+JavaScript%2C+TypeScript+%26+Cloud;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&width=600&lines=Hi+there%2C+I'm+Purnendu+Sarkar+!%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I'm+passionate+Full+Stack+MERN+Developer%F0%9F%92%BB;Building+Scalable+%26+User-Friendly+Web+Apps%F0%9F%8C%90;Passionate+About+JavaScript%2C+TypeScript+%26+Cloud;Open+to+Remote+Opportunities+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </h1>
 
 
