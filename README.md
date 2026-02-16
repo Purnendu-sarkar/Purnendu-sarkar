@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-CORS-1D72F3?logo=cors&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
 </p>
 
 <h3 align="center">🛠️ Tools & DevOps</h3>
