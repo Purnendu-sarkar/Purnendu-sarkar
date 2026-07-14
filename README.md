@@ -69,7 +69,19 @@
   <a href="https://twitter.com/purnendusarkar420">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
   </a>
+
+  <h2 align="center">⌚ WakaTime Stats</h2>
+
+  <div align="center">
+
+  <!--START_SECTION:waka-->
+  <!--END_SECTION:waka-->
+
+  </div>
+
+  <hr/>
 </p>
+
 
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
