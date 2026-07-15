@@ -96,6 +96,18 @@
 </a>
 
 
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Purnendu-sarkar/Purnendu-sarkar/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Purnendu-sarkar/Purnendu-sarkar/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Purnendu-sarkar/Purnendu-sarkar/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<hr/>
+
 <!-- <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Purnendu-sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
