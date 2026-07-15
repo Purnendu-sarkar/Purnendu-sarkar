@@ -96,10 +96,10 @@
 </a>
 
 
-<h2 align="center">🔝 Top Contributed Repo</h2>
+<!-- <h2 align="center">🔝 Top Contributed Repo</h2>
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Purnendu-sarkar&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
-<hr/>
+<hr/> -->
 
