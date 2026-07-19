@@ -72,6 +72,10 @@
 
   <h2 align="center">⌚ WakaTime Stats</h2>
 
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Purnendu-sarkar&label=Visitors&color=brightgreen&style=for-the-badge" />
+  </p>
+
   <div align="center">
 
   <!--START_SECTION:waka-->
