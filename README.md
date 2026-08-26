@@ -81,18 +81,18 @@
   <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2024 - To: 24 August 2026
+From: 21 December 2024 - To: 25 August 2026
 
-Total Time: 457 hrs 36 mins
+Total Time: 463 hrs 30 mins
 
-TypeScript   278 hrs 31 mins       ███████████████░░░░░░░░░░   59.58 %
-JavaScript   83 hrs 17 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
-Prisma       21 hrs 59 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-Bash         19 hrs 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
-Markdown     18 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-JSON         12 hrs 48 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
-Other        9 hrs 49 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-C            7 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+TypeScript   282 hrs 29 mins       ███████████████░░░░░░░░░░   59.63 %
+JavaScript   83 hrs 17 mins        ████▒░░░░░░░░░░░░░░░░░░░░   17.58 %
+Prisma       22 hrs 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Bash         19 hrs 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Markdown     19 hrs 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+JSON         12 hrs 49 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Other        10 hrs 11 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
+C            7 hrs 58 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
 ```
 
 <!--END_SECTION:waka-->
